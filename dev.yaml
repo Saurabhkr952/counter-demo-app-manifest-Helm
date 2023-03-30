@@ -1,0 +1,4 @@
+appName: demo-counter-app
+namespace: dev
+replicas: 2
+env: dev

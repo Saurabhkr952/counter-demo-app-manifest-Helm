@@ -1,0 +1,7 @@
+appName: demo-counter-app
+namespace: prod
+replicas: 10
+env: prod
+
+#  helm upgrade helm-demo helm/ --values helm/prod.yaml
+
