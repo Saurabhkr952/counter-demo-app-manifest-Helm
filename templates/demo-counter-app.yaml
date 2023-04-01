@@ -19,7 +19,7 @@ spec:
       - name: regsecret
       containers:
       - name: {{ .Values.appName }}
-        image: saurabhkr952/counter-demo-app:74
+        image: saurabhkr952/counter-demo-app:24
         imagePullPolicy: Always
         ports:
         - containerPort: 9099

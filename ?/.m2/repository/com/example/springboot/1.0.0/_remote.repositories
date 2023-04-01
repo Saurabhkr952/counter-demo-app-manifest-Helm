@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 01 08:11:11 UTC 2023
+springboot-1.0.0.jar>=
+springboot-1.0.0.pom>=
